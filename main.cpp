@@ -58,11 +58,7 @@ void run() {
                 public:
                     UserProfile(string n) : name(n) {}
 
-                    void display() const {
-                        cout << "Имя пользователя: " << name << endl;
-                    }
-                };
-        
+    
 
 
 int main() {
